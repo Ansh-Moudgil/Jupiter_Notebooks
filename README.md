@@ -4,7 +4,7 @@
 
 </div>
 
-## 1. Diabetes Exploratory Data Analysis and prediction
+## 1. Diabetes Exploratory Data Analysis and prediction(Diabetes_EDA_prediction (2).ipynb)
 ### Description
 1. First desctip;tion
     2. Sub description.
