@@ -2,8 +2,11 @@
 
 # Jupyter Notebooks for Python Projects
 
-
 </div>
 
 ## 1. Diabetes Exploratory Data Analysis and prediction
-### This project uses the diabetes data set.
+### Description
+1. First desctip;tion
+    2. Sub description.
+1. First desctip;tion
+    2. Sub description.
